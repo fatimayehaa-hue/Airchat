@@ -20,3 +20,4 @@ BUFFER_SIZE = 4096
 # --- إعدادات التطبيق الافتراضية ---
 DEFAULT_DEVICE_NAME = "AirUser_" + str(os.urandom(2).hex()) # اسم افتراضي للجهاز
 DEFAULT_THEME = "Dark"      # المظهر الافتراضي: Dark أو Light
+
