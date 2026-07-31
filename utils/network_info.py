@@ -21,6 +21,7 @@ def get_local_ip() -> str:
     return ip
 
 
+
 def get_network_name() -> str:
     """
     استخراج اسم شبكة الـ Wi-Fi الحالية.
