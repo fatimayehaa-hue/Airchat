@@ -4,7 +4,7 @@
 تتيح للمستخدم تغيير اسم جهازه والتحكم في وضع المظهر (Dark/Light Mode).
 """
 
-from kivymd.uix.drawer import MDNavigationDrawer
+from kivymd.uix.navigationdrawer import MDNavigationDrawer
 from kivymd.uix.boxlayout import MDBoxLayout
 from kivymd.uix.label import MDLabel
 from kivymd.uix.button import MDRaisedButton, MDIconButton
